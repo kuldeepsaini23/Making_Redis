@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "redis-parser": "^3.0.0"
+  }
+}
